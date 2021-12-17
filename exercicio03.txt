@@ -1,0 +1,6 @@
+Uma empresa que tem a concessão de um pedágio em uma rodovia deseja fazer um acompanhamento do número de eixos dos caminhões que trafegam pelo trecho em diferentes períodos do dia.
+O sistema de identificação envia para a entrada padrão a quantidade de eixos de cada caminhão e o valor “-1” quando o sistema é encerrado ao final do período. 
+
+Faça uma função que lê os valores das quantidades de eixos e imprime quantos caminhões com 2, 3, 4 (ou mais) eixos foram registrados quando o período encerrar.
+
+Faça um programa que chame a função criada no item 1.
