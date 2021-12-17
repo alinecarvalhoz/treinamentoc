@@ -2,6 +2,8 @@ Exercício 1 - Calculo de IMC
 
 Vamos ajudar um professor de educação física a identificar os alunos que estão acima do peso? Para isso, faça o que se pede: 
 
-Crie uma função que receba como parâmetro o peso (em quilos) e a altura (em centímetros) de um aluno e retorne o seu Índice de Massa Corporal (IMC). Para calcular o IMC, divida o peso (em quilos) pelo quadrado da altura (em metros).
+Crie uma função que receba como parâmetro o peso (em quilos) e a altura (em centímetros) de um aluno e retorne o seu Índice de Massa Corporal (IMC).
+Para calcular o IMC, divida o peso (em quilos) pelo quadrado da altura (em metros).
 
-Faça um programa principal (main) que leia a quantidade de alunos em uma turma. Depois, leia o peso (em quilos) e a altura (em centímetros) de cada aluno da turma e, usando a função desenvolvida anteriormente, imprima a mensagem “Acima do peso” para os alunos que estiverem com IMC igual ou superior a 25 e a mensagem "Peso ok" para os demais alunos.
+Faça um programa principal (main) que leia a quantidade de alunos em uma turma.
+Depois, leia o peso (em quilos) e a altura (em centímetros) de cada aluno da turma e, usando a função desenvolvida anteriormente, imprima a mensagem “Aluno acima do peso” para os alunos que estiverem com IMC igual ou superior a 25 e a mensagem "aluno com peso ok" para os demais alunos.
